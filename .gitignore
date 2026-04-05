@@ -1,3 +1,7 @@
+#data
+/data
+/t2_juris
+
 # Byte-compiled / cache
 __pycache__/
 *.py[cod]
